@@ -1,5 +1,7 @@
 # Phase 1 Project Templates and Examples
 
+## Microsoft trying its hand at movie making!!!
+
 This repo contains templates and examples to help you get started with your Phase 1 Project. Each of these is in a separate branch as explained below.
 
 - The **template-mvp** branch is the template you should use to for your Phase 1 Project. MVP stands for Minimum Viable Product, but this isn't meant in a negative way - if your project uses this template, it will be functional and accessible.
