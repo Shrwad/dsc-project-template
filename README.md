@@ -2,7 +2,8 @@
 
 ## Microsoft trying its hand at movie making!!!
 
-(image.png)
+![(image.png)
+![Microsoft studio](image.png)
 
 Microsoft is aiming to create new movie studio. They require recommendations on the type of movies doing well at Box office. Recommendations include actionable insights to help Microsoft with new movie studio. 
 
