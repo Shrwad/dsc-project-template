@@ -15,12 +15,12 @@ upon sifting through the datasets, I noticed that, out of ten different tables i
 \ imdb.name.basics.csv.gz.
 
 applying merge joint and some methods, I could come to my three recommedations. 
-** Recommendation 1 - Movie Genres **
+  Recommendation 1 - Movie Genres  
 
 ![]()
 
-** Recommendation 2 - Best Directors to work with **
+  Recommendation 2 - Best Directors to work with  
 
 ![]()
 
-** Recommendation 3 - Best Writers to work with **
+  Recommendation 3 - Best Writers to work with  
