@@ -35,3 +35,4 @@ applying merge joint and some methods, I could come to my three recommedations.
 
 [Acess to PDF files and presentation](https://github.com/Shrwad/dsc-project-template/tree/master/Submit)
 
+[Jupyter notebook](Untitled1.ipynb)
