@@ -1,4 +1,4 @@
-# Phase 1 Project Templates and Examples
+# MOVIES PROJECT
 
 ## Microsoft trying its hand at movie making!!!
 
