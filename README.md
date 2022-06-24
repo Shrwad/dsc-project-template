@@ -2,14 +2,14 @@
 
 ## Microsoft trying its hand at movie making!!!
 
-This repo contains templates and examples to help you get started with your Phase 1 Project. Each of these is in a separate branch as explained below.
+(image.png)
 
-- The **template-mvp** branch is the template you should use to for your Phase 1 Project. MVP stands for Minimum Viable Product, but this isn't meant in a negative way - if your project uses this template, it will be functional and accessible.
+Microsoft is aiming to create new movie studio. They require recommendations on the type of movies doing well at Box office. Recommendations include actionable insights to help Microsoft with new movie studio. 
 
-- The **example-mvp** branch is an example project using the MVP template.
+upon sifting through the datasets, I noticed that, out of ten different tables in CSV and JSON format, I can use five tables to extract desired data. 
+bom.movie_gross.csv.
+imdb.title.crew.csv.
+imdb.title.principals.csv.
+imdb.title.basics.csv.
+imdb.name.basics.csv.gz.
 
-Once you've completed your project using the MVP template, you can improve it using the Above and Beyond (AAB) template if you have time:
-
-- The **template-aab** branch is the AAB template to use to keep improving your project.
-
-- The **example-aab** branch is an example project using the AAB template.
