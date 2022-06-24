@@ -32,3 +32,6 @@ applying merge joint and some methods, I could come to my three recommedations.
 ![]()
 
   Recommendation 3 - Best Writers to work with  
+
+[Acess to PDF files and presentation](https://github.com/Shrwad/dsc-project-template/tree/master/Submit)
+
